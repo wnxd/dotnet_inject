@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet_inject", "dotnet_inject\dotnet_inject.csproj", "{1A18D966-CAE8-467A-A148-695D029D8978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet_helper", "dotnet_helper\dotnet_helper.csproj", "{FADA6857-6002-4089-869F-B6F3CCD5F470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A18D966-CAE8-467A-A148-695D029D8978}.Debug|x86.ActiveCfg = Debug|x86
+		{1A18D966-CAE8-467A-A148-695D029D8978}.Debug|x86.Build.0 = Debug|x86
+		{1A18D966-CAE8-467A-A148-695D029D8978}.Release|x86.ActiveCfg = Release|x86
+		{1A18D966-CAE8-467A-A148-695D029D8978}.Release|x86.Build.0 = Release|x86
+		{FADA6857-6002-4089-869F-B6F3CCD5F470}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FADA6857-6002-4089-869F-B6F3CCD5F470}.Debug|x86.Build.0 = Debug|Any CPU
+		{FADA6857-6002-4089-869F-B6F3CCD5F470}.Release|x86.ActiveCfg = Release|Any CPU
+		{FADA6857-6002-4089-869F-B6F3CCD5F470}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
