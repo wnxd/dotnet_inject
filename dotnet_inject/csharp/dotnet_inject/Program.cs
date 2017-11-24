@@ -11,7 +11,7 @@ namespace dotnet_inject
         public static extern IntPtr dlsym(IntPtr handle, string symbol);
         [DllImport("/usr/lib/libSystem.dylib")]
         public static extern int dlclose(IntPtr handle);
-        //[DllImport("libdotnet_inject.dylib")]
+        //[DllImport("dotnet_inject.dylib")]
         //static extern bool dotnet_inject(int pid, string lib);
         delegate bool dotnet_inject(int pid, string lib);
         public static void Main(string[] args)

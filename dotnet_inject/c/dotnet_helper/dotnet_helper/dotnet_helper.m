@@ -52,8 +52,9 @@ void xamarin_init(const char* path)
 __attribute__((constructor))
 void dotnet_init()
 {
+    NSLog(@"init");
     void* mod = dlopen(_dyld_get_image_name(0), RTLD_LAZY);
-    NSLog(@"init: %p %s", mod, _dyld_get_image_name(0));
+    NSLog(@"%p %s", mod, _dyld_get_image_name(0));
     void* func = dlsym(mod, "mono_assembly_open");
     NSLog(@"mono_assembly_open: %p", func);
     if (func != NULL)

@@ -1,0 +1,3 @@
+/Users/wnxd/Documents/git/dotnet_inject/dotnet_inject/csharp/dotnet_inject/bin/Release/dotnet_inject.exe
+/Users/wnxd/Documents/git/dotnet_inject/dotnet_inject/csharp/dotnet_inject/obj/x86/Release/dotnet_inject.csproj.CoreCompileInputs.cache
+/Users/wnxd/Documents/git/dotnet_inject/dotnet_inject/csharp/dotnet_inject/obj/x86/Release/dotnet_inject.exe

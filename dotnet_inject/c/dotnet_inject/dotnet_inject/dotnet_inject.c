@@ -32,6 +32,7 @@ void EventLoopTimerEntry(EventLoopTimerRef inTimer, char* param)
     strcat(name, "dotnet_helper.dylib");
     syslog(LOG_NOTICE, "%s | %s", path, lib);
     void* helper = dlopen(name, RTLD_NOW);
+    syslog(LOG_NOTICE, "%s | %p", name, helper);
     if (helper != NULL)
     {
         dotnet_load load = dlsym(helper, "dotnet_load");
