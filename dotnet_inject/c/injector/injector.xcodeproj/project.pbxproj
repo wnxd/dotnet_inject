@@ -8,17 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		6AA8D1521FC745EB00590ABC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6AA8D1511FC745EB00590ABC /* main.m */; };
+		6AA8D1581FC7471E00590ABC /* injector in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6AA8D14E1FC745EB00590ABC /* injector */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		6AA8D14C1FC745EB00590ABC /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
+			buildActionMask = 12;
+			dstPath = "$(SRCROOT)/../../build";
 			dstSubfolderSpec = 0;
 			files = (
+				6AA8D1581FC7471E00590ABC /* injector in CopyFiles */,
 			);
-			runOnlyForDeploymentPostprocessing = 1;
+			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
 

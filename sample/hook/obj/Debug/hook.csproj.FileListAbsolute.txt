@@ -1,6 +1,0 @@
-/Users/wnxd/Documents/git/dotnet_inject/sample/hook/bin/Debug/hook.dll
-/Users/wnxd/Documents/git/dotnet_inject/sample/hook/bin/Debug/hook.pdb
-/Users/wnxd/Documents/git/dotnet_inject/sample/hook/bin/Debug/dotnet_helper.dll
-/Users/wnxd/Documents/git/dotnet_inject/sample/hook/obj/Debug/hook.csproj.CoreCompileInputs.cache
-/Users/wnxd/Documents/git/dotnet_inject/sample/hook/obj/Debug/hook.dll
-/Users/wnxd/Documents/git/dotnet_inject/sample/hook/obj/Debug/hook.pdb

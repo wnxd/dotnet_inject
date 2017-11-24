@@ -1,4 +1,0 @@
-/Users/wnxd/Documents/git/dotnet_inject/dotnet_inject/csharp/dotnet_helper/bin/Release/dotnet_helper.dll
-/Users/wnxd/Documents/git/dotnet_inject/dotnet_inject/csharp/dotnet_helper/obj/Release/dotnet_helper.csprojResolveAssemblyReference.cache
-/Users/wnxd/Documents/git/dotnet_inject/dotnet_inject/csharp/dotnet_helper/obj/Release/dotnet_helper.csproj.CoreCompileInputs.cache
-/Users/wnxd/Documents/git/dotnet_inject/dotnet_inject/csharp/dotnet_helper/obj/Release/dotnet_helper.dll
